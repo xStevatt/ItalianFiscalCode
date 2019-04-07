@@ -1,9 +1,9 @@
 # Codice Fiscale Calculator
 Generatore Codice Fiscale Italiano. Italian Fiscal Code Generator.
-For a better experience, download the GUI version. 
  > Download codicicatastali.txt
  
  > Download codicifiscali.txt
+Place them in the project folder. 
 # 
 Stores codes in codicifiscali.txt
 
