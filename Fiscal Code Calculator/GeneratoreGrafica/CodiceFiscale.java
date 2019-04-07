@@ -15,7 +15,7 @@ public class CodiceFiscale
         gui.setSize(525, 450);
         gui.centreWindow(gui);
         gui.setResizable(false);
-        gui.setTitle("CodiceFiscale | Stefano Valloncini | 4CI - 2018/2019");
+        gui.setTitle("CodiceFiscale");
         gui.setVisible(true);
     }
 }
